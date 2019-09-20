@@ -46,9 +46,10 @@ body, html {
     width: 10px;
 }
 
-.medium {
+.mediumbox {
     width: 100px;
     height: 140px;
+    background-color: yellowgreen
 }
 
 #divider2 {
@@ -60,4 +61,29 @@ body, html {
     height: 10px;
     width: 400px;
     background-color:black
+}
+
+#bottomrightcolumn {
+    width: 10px;
+    height: 110px;
+    background-color: black
+}
+
+#smallbox {
+    background-color: blue;
+    height:  100px;
+    width:100px;
+    float: left; 
+}
+
+#smallbox2 {
+    background-color: palevioletred;
+    height: 100px;
+    width: 260px;
+    float: right
+}
+
+#divider3{
+    height: 100px;
+    width: 10px;
 }
