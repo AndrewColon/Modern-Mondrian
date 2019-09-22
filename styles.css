@@ -79,11 +79,28 @@ body, html {
 #smallbox2 {
     background-color: palevioletred;
     height: 100px;
-    width: 260px;
-    float: right
+    width: 365px;
+    float: left 50px;
 }
 
-#divider3{
+#divider3 {
     height: 100px;
     width: 10px;
+    background-color: black;
+    float: left;
+}
+
+#divider4 {
+    height: 100px;
+    width: 10px;
+    background-color: black;
+    float: right;
+}
+
+#smallerbox {
+    height: 100px;
+    width: 34px;
+    background-color: mediumaquamarine;
+    float: right;
+    
 }
